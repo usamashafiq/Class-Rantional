@@ -1,0 +1,2 @@
+# Class-Rantional
+OOP C++
